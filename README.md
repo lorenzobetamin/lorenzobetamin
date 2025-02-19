@@ -1,6 +1,13 @@
-## Sejam bem vindos! Eu sou o Lorenzo Betamin
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sejam+bem+vindos!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- Atualmente estou cursando Engenharia da Computação (2° semestre) na Universidade de Fortaleza (UNIFOR).
+## Eu sou o Lorenzo Betamin!
+
+- Sou estudante de Engenharia da Computação na Universidade de Fortaleza (UNIFOR), atualmente no 2° semestre. Sou apaixonado por tecnologia e inovação, estou sempre buscando aprender mais. 
+- Estou sempre aberto a novas conexões, colaborações e oportunidades! Se quiser trocar ideia, fique à vontade para me chamar! 😉
 
 <div>
   <a href="https://github.com/lorenzobetamin">
