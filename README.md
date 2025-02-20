@@ -27,7 +27,7 @@
   <a href="https://instagram.com/l.betamin" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:lorenzobetamin@edu.unifor.br">
+  <a href="mailto:lmbetamin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/lorenzo-b-978725262/" target="_blank">
