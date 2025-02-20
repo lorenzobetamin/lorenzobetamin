@@ -12,7 +12,6 @@
 <div>
   <a href="https://github.com/lorenzobetamin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzobetamin&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobetamin&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
